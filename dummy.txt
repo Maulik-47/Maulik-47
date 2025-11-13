@@ -1,0 +1,8 @@
+This is a dummy file created for testing the PR workflow.
+
+Purpose: Demonstrate creating a Pull Request from a feature branch to main branch.
+
+Date: 2025-11-13
+Branch: copilot/create-dummy-pr -> main
+
+This file contains some sample content to make the PR meaningful.
